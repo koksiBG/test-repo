@@ -1,3 +1,8 @@
+<<<<<<< HEAD
 name = Nikolay
 ages = 400
+=======
+name = Nikolay Trifonov
+age = 40
+>>>>>>> origin/master
 email = koksi75@gmail.com
